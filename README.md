@@ -12,7 +12,7 @@ This is a Pokémon search application built with Next.js, Tailwind CSS. The app 
 - Loading indicator while fetching data.
 - Client-side routing implemented.
 - Sorting and filtering options by name or base experience.
-- Mock authentication for user access.
+- Mock authentication for user access, for login any email and password can be used since it is a mock authentication.
 
 ## Setup Instructions
 
